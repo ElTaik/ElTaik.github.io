@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: century;
+}
+
+.titre{
+    position:absolute;
+    top: 10%;
+    left: 40%;
+    transform: translate(-25%, -50%);
+    color: blue;
+    font-family: OCR A Std, monospace;
+}
+
+.titre h1{
+    color: rgb(40, 52, 160);
+    font-size: 70px;
+    font-family: OCR A Std, monospace;
+}
+
+.burger{
+    position: absolute;
+    padding: 100px 100px;
+    color: black;
+    background-image: url(./burger1.png);
+    background-size: cover;
+    top: 350px;
+    left: 500px;
+    height: 40px;
+    font-weight: 700;
+    font-size: 20px;
+
+}
+
+.burger a{
+    position: absolute;
+    position: absolute;
+    top: 220px;
+    left: 10px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.burger p{
+    position: absolute;
+    position: absolute;
+    bottom: -100px;
+    left: 40px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(250, 198, 28);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.burger2{
+    position: absolute;
+    padding: 100px 100px;
+    color: black;
+    background-image: url(./bag_mic.jpg);
+    background-size: cover;
+    top: 350px;
+    left: 800px;
+    height: 40px;
+    font-weight: 700;
+    font-size: 20px;
+
+}
+
+.burger2 a{
+    position: absolute;
+    top: 220px;
+    left: 45px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.burger2 p{
+    position: absolute;
+    bottom: -100px;
+    left: 60px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(250, 198, 28);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.burger3{
+    position: absolute;
+    padding: 100px 100px;
+    color: black;
+    background-image: url(./chicken_2.jpg);
+    top: 350px;
+    left: 1100px;
+    height: 40px;
+    font-weight: 700;
+    font-size: 20px;
+
+}
+
+.burger3 a{
+    position: absolute;
+    top: 220px;
+    left: 20px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.burger3 p{
+    position: absolute;
+    bottom: -100px;
+    left: 40px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(250, 198, 28);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+
+}
+
+.custo a{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    list-style: none;
+    bottom: 150px;
+    left: 600px;
+    font-size: 30px;
+    background-color: rgb(250, 198, 28);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
