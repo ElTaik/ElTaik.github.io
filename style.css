@@ -17,10 +17,10 @@ header{
     position: absolute;
     background-image: url(./Tacoburgers.png);
     background-size: cover;
-    top: 30px;
-    left: 50px;
-    height: 40px;
+    bottom: 50px;
+    right: 60px;
     font-weight: 900;
+    text-decoration: none;
 }
 
 ul{
