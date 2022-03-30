@@ -6,7 +6,7 @@
 }
 
 header{
-    background-image:linear-gradient(rgba(41, 39, 39, 0.6), rgba(41, 39, 39, 0.6)), url(./tacobackground.png);
+    background-image:linear-gradient(rgba(41, 39, 39, 0.6), rgba(41, 39, 39, 0.26)), url(./tacobackground.png);
     height: 100vh;
     background-size: cover;
     background-position: center;
@@ -64,6 +64,8 @@ ul li a:hover{
 .titre h1{
     color: rgb(168, 27, 57);
     font-size: 70px;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    margin-right: 2px;
 }
 
 
